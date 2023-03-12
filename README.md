@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Majid Al Zariey@malzariey
-- 👀 I’m interested in Programming with Flutter
-- 🌱 I’m currently learning Advanced Security Concepts and Professional code writting
-- 💞️ I’m looking to collaborate on Flutter Project
+- 👀 I’m interested in Programming with Laravel and Flutter
+- 💞️ I’m looking to collaborate on intresting projects.
 - 📫 You can always reach me through my phone +967 774 34 34 68 or email malzariey@gmail.com
 
 <!---
